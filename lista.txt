@@ -1,4 +1,5 @@
 EJEMPLO:
 
+Gastón Gómez (270341) -> Usuario de GitHub: ton0001
 Elizabelar Nicolás (210056) -> Usuario de GitHub: nelizabelar
 Giuliano Palumbo (222581) -> Usuario de GitHub: giulianopbo

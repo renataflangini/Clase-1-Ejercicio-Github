@@ -2,6 +2,7 @@ EJEMPLO:
 
 Joaquin Anduano (176914) -> Usuario de GitHub: joaquin03
 
+Heredia, Felipe (297297) -> Usuario de GitHub : FelipeH99
 Sebastián Bentancurt (225768) -> Usuario de GitHub: sebabentancurt
 Patricia Varela (151547) -> Usuario de GitHub: pavarela
 Gonzalo Fontenla (172532) -> Usuario de GitHub: gfontenla
@@ -17,4 +18,5 @@ Santiago Mc Clew (234021) -> Usuario de GitHub: santimcc
 Agustin Juarez  (236487) -> Usuario de GitHub: AgustinJuarezN
 Kevin  Villamil (187176) -> Usuario de GitHub: kios17
 Agustin Campon  (233006) -> Usuario de GitHub: acampon-sw
+
 
